@@ -88,7 +88,7 @@
 
 
 <!-- Motto -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=无他，为手熟尔。&author=DEVLqj"  />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=talk is cheap, show me the code。&author=DEVLqj"  />
 
 
 
